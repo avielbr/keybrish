@@ -1,4 +1,2 @@
 # flipkey
-Tool for correcting Hebrish
-
-(Will be updating soon)
+![GIF](https://i.imgur.com/4Vq53P5.gif)
