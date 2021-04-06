@@ -15,7 +15,7 @@ def flip():
         copy(text.translate(Mappings.heb_eng))
 
     else: 
-        copy(text.translate(Mappings.eng_heb))
+        copy(text.strip().translate(Mappings.eng_heb))
 
     hotkey('ctrl', 'v')
 
